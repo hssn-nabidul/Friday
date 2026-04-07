@@ -1,0 +1,20 @@
+{
+  "name": "friday",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "latest",
+    "@google/generative-ai": "latest",
+    "@libsql/client": "latest",
+    "node-cron": "latest",
+    "axios": "latest",
+    "dotenv": "latest",
+    "zod": "latest",
+    "pino": "latest",
+    "qrcode-terminal": "latest"
+  }
+}
