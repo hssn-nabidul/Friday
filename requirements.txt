@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+google-genai
+apscheduler==3.11.*
+SQLAlchemy
+httpx
+tenacity
+python-dotenv
+pydantic
+libsql-client
